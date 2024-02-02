@@ -11,4 +11,6 @@ const deck1 = new deck(options);
 
 deck1.shuffle(); 
 
-deck1.displayCards(); 
+deck1.displayCards();
+
+console.log("hello"); 
