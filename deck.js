@@ -1,4 +1,4 @@
-import Card from "./card.js"
+import Card from "./Card.js"
 import shuffle from "./node_modules/lodash-es/shuffle.js"
 
 class deck {
